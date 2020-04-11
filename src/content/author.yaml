@@ -5,9 +5,16 @@
   facebook: ghost
   website: https://ghost.org/
   location: On a plane
-- id: Another Author
+- id: Guillaume
   avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
+  bio: Aime le chocolat
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: On a plane
+- id: Daphné
+  avatar: avatars/ghost.png
+  bio: Aime les pâtes
   twitter: TryGhost
   facebook: ghost
   website: https://ghost.org/
